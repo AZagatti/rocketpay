@@ -60,7 +60,7 @@ and `mix coveralls.html` to generate HTML with coverage.
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/AZagatti/rocketpay/blob/master/LICENSE.md) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/AZagatti/rocketpay/blob/master/LICENSE) for more information.
 
 ---
 
